@@ -62,5 +62,9 @@ Do a `node -v` to check if it's installed correctly.
 
 And there you have it, a fully functional nodeJS environment on your smartphone.
 
+> NB Termux persists as a background service so when you are done using it always close it completely from your notification bar.
+Like so
+
+
 Stay tuned (or follow) for my post on setting up a complete authentication flow on our mobile environment using Node, Express, and a really cool Postman alternative.
 
