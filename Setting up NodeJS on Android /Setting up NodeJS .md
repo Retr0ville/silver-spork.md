@@ -48,7 +48,7 @@ As you may have seen from my previous screenshot, Termux's package install comma
 To do that we would.. you guessed it, do a search with 
 `pkg search node`
 This returns
-![](Screenshot_20220728-220601_Termux~2.png)
+
 And we can see that they have the Node v16 and v18, i.e. stable and the latest versions as at the time of writing.
 > Note: If you get an older version or nothing found, then try doing `pkg upgrade` before proceeding with the next step.
 ### Install Node
@@ -64,7 +64,7 @@ And there you have it, a fully functional nodeJS environment on your smartphone.
 
 > NB Termux persists as a background service (*In case you have a server running.* 👀) so when you are done using it always close it completely from your notification drop-down.
 Like so,
-
+![](Screenshot_20220728-223330_Zettel_Notes~2.png)
 
 Stay tuned (or follow) for my post on setting up a complete authentication flow on our mobile environment using Node, Express, and a really cool Postman alternative.
 
