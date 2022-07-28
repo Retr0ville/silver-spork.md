@@ -5,7 +5,7 @@ author: retr0ville
 source: 
 ---
 # The Plain Text Approach 
-
+🪵🪵🪵🪵🪵🪵🪵🪵🪵🪵
 1. Text is the most robust way to store data. It is ultimately transferable to all operating systems. 
 
 2. There are many ways to manipulate text files. Text editors for manual manipulation is just one of them. You can also easily automate workflows and write scripts with simple programming languages like Ruby or Python.
