@@ -30,3 +30,7 @@ No brainer, press on it 👀
 
 You would be greeted with a black screen much like, if not exactly like this
 ![](Screenshot_20220728-213834_Termux~2.png)
+Looks familiar? Ofc it does. It's textbook terminal output.
+
+Now let's see if it's functional,
+I have tried out some simple Linux Commands like mkdir, ls, cd and cat
