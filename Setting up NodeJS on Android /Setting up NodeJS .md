@@ -8,7 +8,7 @@ Ever been in a position where you are without your laptop? (*or it died on you u
 >No?
 Well okay I admit that was a little too specific. Anyways here's how to use your phone **by which I mean Android** to spin up a fully functional nodeJS environment for all your on the go Server maintenance needs /s.
 **First** you would want to 
-### Download and Install the Termux app. 🧊
+## Download and Install the Termux app. 🧊
 You would find a *version* on the Play store but I wouldn't recommend using that as it is outdated, unmaintained and possibly deprecated, so just head over to the official [GitHub Repo here](https://github.com/termux/termux-app/releases/tag/v0.118.0) and download the latest version *0.118.0* at the time of writing.
 Or if you got beef with Microsoft you can as well get the latest version from [Fdroid](https://f-droid.org/en/packages/com.termux/), a great Open source application hosting site for Android.
 Okay so what is Termux exactly? You may ask.
@@ -25,7 +25,7 @@ With Termux you can:
 And much more... But let's get back to certain time here. We just want a simple nodeJS application.
 
 Next step would be..
-### Launching the App 
+## Launching the App 🍷
 No brainer, press on it 👀
 
 You would be greeted with a black screen much like, if not exactly like this
