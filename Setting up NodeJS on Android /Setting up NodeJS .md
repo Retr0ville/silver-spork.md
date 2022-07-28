@@ -4,6 +4,7 @@ tags: android blog rtrvl
 author: retr0ville
 source: 
 ---
+# NodeJS on a Cob
 Ever been in a position where you are without your laptop? (*or it died on you unexpectedly for some arcane reason*), while you were in the middle of squashing a ladybug that wouldn't let users successfully sign up on your top of the line website.
 >No?
 Well okay I admit that was a little too specific. Anyways here's how to use your phone **by which I mean Android** to spin up a fully functional nodeJS environment for all your on the go Server maintenance needs /s.
