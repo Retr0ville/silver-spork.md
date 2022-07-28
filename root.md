@@ -24,6 +24,7 @@ Every attempt to answer this questions has one thing in common: Connection.
 2. How to connect Data, Information, Knowledge?
 
 While we don't have a theoretical answer to this theoretical question we can give the practical solution to knowledge work with quite robust confidence: Make connection possible.
+[[root]]
 
 ### 根 Blogs
     NodeJS on a Cob [[Setting up NodeJS ]]
