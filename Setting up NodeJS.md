@@ -27,3 +27,6 @@ And much more... But let's get back to certain time here. We just want a simple 
 Next step would be..
 ### Launching the App 
 No brainer, press on it 👀
+
+You would be greeted with a black screen much like, if not exactly like this
+![](Screenshot_20220728-213834_Termux~2.png)
