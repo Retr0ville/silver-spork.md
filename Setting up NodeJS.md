@@ -48,4 +48,5 @@ As you may have seen from my previous screenshot, Termux's package install comma
 To do that we would.. you guessed it, do a search with 
 `pkg search node`
 This returns
-
+![](Screenshot_20220728-220601_Termux~2.png)
+And we can see that they have the Node v16 and
