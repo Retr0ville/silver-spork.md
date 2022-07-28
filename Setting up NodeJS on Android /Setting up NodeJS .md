@@ -38,7 +38,7 @@ I have tried out some simple Linux Commands like mkdir, ls, cd and cat
 You will notice I already have some fully fledged applications in that directory, this is because I have previously installed Git and used it to pull a repository from my remote to work on with my phone.  For you it's all most likely a blob of emptiness. That's normal, and should be expected.
 
 >Okay that's cool and all, but how do I actually install Node You may ask. We are getting there.
-### So Thirdly
+## So Thirdly ⛷️
 As you may have seen from my previous screenshot, Termux's package install command goes a bit like
 `pkg install <package-name>`
  And another useful command also on the image is
@@ -57,7 +57,7 @@ To install, use the install command
 Making sure you spell it exactly is it was on the search result.
 If successful you would get something like ![](Screenshot_20220728-221356_Termux~2.png)
 *Or maybe a little different, because I only did an update from nodev16.14 to nodev16.15 but you get the idea.*
-### Finally 
+## Finally 🌊
 Do a `node -v` to check if it's installed correctly.
 
 And there you have it, a fully functional nodeJS environment on your smartphone.
