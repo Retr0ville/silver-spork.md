@@ -34,7 +34,7 @@ Looks familiar? Ofc it does. It's textbook terminal output.
 
 Now let's see if it's functional,
 I have tried out some simple Linux Commands like mkdir, ls, cd and cat
-![](Screenshot_20220728-214739_Termux~2.png)
+
 You will notice I already have some fully fledged applications in that directory, this is because I have previously installed Git and used it to pull a repository from my remote to work on with my phone.  For you it's all most likely a blob of emptiness. That's normal, and should be expected.
 
 >Okay that's cool and all, but how do I actually install Node You may ask. We are getting there.
@@ -48,7 +48,7 @@ As you may have seen from my previous screenshot, Termux's package install comma
 To do that we would.. you guessed it, do a search with 
 `pkg search node`
 This returns
-
+![](Screenshot_20220728-220601_Termux~2.png)
 And we can see that they have the Node v16 and v18, i.e. stable and the latest versions as at the time of writing.
 > Note: If you get an older version or nothing found, then try doing `pkg upgrade` before proceeding with the next step.
 ### Install Node
