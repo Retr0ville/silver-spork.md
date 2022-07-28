@@ -37,4 +37,7 @@ I have tried out some simple Linux Commands like mkdir, ls, cd and cat
 ![](Screenshot_20220728-214739_Termux~2.png)
 You will notice I already have some fully fledged applications in that directory, this is because I have previously installed Git and used it to pull a repository from my remote to work on with my phone.  For you it's all most likely a blob of emptiness. That's normal, and should be expected.
 
-Okay that's cool and all, but how do I actually install Node You may ask. We are getting there.
+>Okay that's cool and all, but how do I actually install Node You may ask. We are getting there.
+### So Thirdly
+As you may have seen from my previous screenshot, Termux's package install command goes a bit like
+`pkg install <package-name>`
