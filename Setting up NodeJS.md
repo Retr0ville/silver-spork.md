@@ -49,4 +49,5 @@ To do that we would.. you guessed it, do a search with
 `pkg search node`
 This returns
 ![](Screenshot_20220728-220601_Termux~2.png)
-And we can see that they have the Node v16 and
+And we can see that they have the Node v16 and v18, i.e. stable and the latest versions as at the time of writing.
+> Note: If you get an older version, then try doing `pkg upgrade`
