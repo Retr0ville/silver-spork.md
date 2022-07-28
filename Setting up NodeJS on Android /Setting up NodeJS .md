@@ -55,7 +55,7 @@ And we can see that they have the Node v16 and v18, i.e. stable and the latest v
 To install, use the install command
 `pkg install nodejs-lts` or `pkg install nodejs`
 Making sure you spell it exactly is it was on the search result.
-If successful you would get something like ![](Screenshot_20220728-221356_Termux~2.png)
+If successful you would get something like 
 *Or maybe a little different, because I only did an update from nodev16.14 to nodev16.15 but you get the idea.*
 ### Finally 
 Do a `node -v` to check if it's installed correctly.
