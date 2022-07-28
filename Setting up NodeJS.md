@@ -41,3 +41,11 @@ You will notice I already have some fully fledged applications in that directory
 ### So Thirdly
 As you may have seen from my previous screenshot, Termux's package install command goes a bit like
 `pkg install <package-name>`
+ And another useful command also on the image is
+ `pkg search <package-name>`
+ And yes it does what you think it does.
+#### Using the search command we can check to see if our package manager even has this thing called Node.
+To do that we would.. you guessed it, do a search with 
+`pkg search node`
+This returns
+
