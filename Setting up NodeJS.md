@@ -56,3 +56,11 @@ To install, use the install command
 `pkg install nodejs-lts` or `pkg install nodejs`
 Making sure you spell it exactly is it was on the search result.
 If successful you would get something like ![](Screenshot_20220728-221356_Termux~2.png)
+*Or maybe a little different, because I only did an update from nodev16.14 to nodev16.15 but you get the idea.*
+### Finally 
+Do a `node -v` to check if it's installed correctly.
+
+And there you have it, a fully functional nodeJS environment on your smartphone.
+
+Stay tuned (or follow) for my post on setting up a complete authentication flow on our mobile environment using Node, Express, and a really cool Postman alternative.
+
