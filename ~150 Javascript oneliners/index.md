@@ -1,6 +1,6 @@
 ---
 title: index
-tags: android blog rtrvl
+tags: javascript algorithms cheatsheet
 author: retr0ville
 source: 
 ---
