@@ -16,3 +16,5 @@ source:
 > The plain text approach offers the best of speed, flexibility, and control over your knowledge. It forces one to learn how to manipulate text *as text*. Text is the most important and most widely used container of knowledge out there. That means: Whatever you want to do with your knowledge on a computer, ask yourself: "How can I do this with mere text files?" Once you get the hang of it, you'll be better off!
 
 🪵🪵
+
+#Zettel
