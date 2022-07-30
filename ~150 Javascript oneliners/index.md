@@ -1,6 +1,6 @@
 ---
 title: index
-tags: javascript algorithms cheatsheet
+tags: javascript typescript algorithms cheatsheet
 author: retr0ville
 source: dev.to
 ---
