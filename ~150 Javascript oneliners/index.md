@@ -26,7 +26,7 @@ source: dev.to
 <br/>
 <br/>
 
-# Array one liners <a name="array" id="array"></a>
+## Array one liners [:point_up:](#table) <a name="array" id="array"></a>
 
 ---
 
