@@ -18,6 +18,7 @@ source: dev.to
 - [Misc one liners](#misc)
 - [Objects one liners](#object)
 - [String one liners](#string)
+- [strubgg](#string)
 
 <br/>
 <br/>
