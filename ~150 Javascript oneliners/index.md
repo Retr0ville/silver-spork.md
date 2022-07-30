@@ -2,7 +2,7 @@
 title: index
 tags: javascript algorithms cheatsheet
 author: retr0ville
-source: 
+source: dev.to
 ---
 
 # OneLiners
@@ -21,8 +21,6 @@ source:
 
 <br/>
 <br/>
-
-:pray: Hope you like :+1: this post, let's get down to business. :rocket:
 
 <br/>
 <br/>
