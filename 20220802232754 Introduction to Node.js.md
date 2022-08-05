@@ -1,6 +1,6 @@
 ---
 title: Introduction to Node
-tags: android blog rtrvl
+tags:  blog rtrvl
 author: retr0ville
 source: https://nodejs.dev/learn/#an-example-nodejs-application
 ---
@@ -230,42 +230,3 @@ Many of those established over time as popular options. Here is a non-comprehens
 * [**Socket.io**](https://socket.io/): A real-time communication engine to build network applications.
 * [**Strapi**](https://strapi.io/): Strapi is a flexible, open-source Headless CMS that gives developers the freedom to choose their favorite tools and frameworks while also allowing editors to easily manage and distribute their content. By making the admin panel and API extensible through a plugin system, Strapi enables the world's largest companies to accelerate content delivery while building beautiful digital experiences.
 
-##### Contributors
-
-* [![flaviocopes](https://github.com/flaviocopes.png?size=60)](https://github.com/flaviocopes "flaviocopes")
-* [![potch](https://github.com/potch.png?size=60)](https://github.com/potch " potch")
-* [![MylesBorins](https://github.com/MylesBorins.png?size=60)](https://github.com/MylesBorins " MylesBorins")
-* [![RomainLanz](https://github.com/RomainLanz.png?size=60)](https://github.com/RomainLanz " RomainLanz")
-* [![virkt25](https://github.com/virkt25.png?size=60)](https://github.com/virkt25 " virkt25")
-* [![Trott](https://github.com/Trott.png?size=60)](https://github.com/Trott " Trott")
-* [![onel0p3z](https://github.com/onel0p3z.png?size=60)](https://github.com/onel0p3z " onel0p3z")
-* [![ollelauribostrom](https://github.com/ollelauribostrom.png?size=60)](https://github.com/ollelauribostrom " ollelauribostrom")
-* [![MarkPieszak](https://github.com/MarkPieszak.png?size=60)](https://github.com/MarkPieszak " MarkPieszak")
-* [![fhemberger](https://github.com/fhemberger.png?size=60)](https://github.com/fhemberger " fhemberger")
-* [![LaRuaNa](https://github.com/LaRuaNa.png?size=60)](https://github.com/LaRuaNa " LaRuaNa")
-* [![FrozenPandaz](https://github.com/FrozenPandaz.png?size=60)](https://github.com/FrozenPandaz " FrozenPandaz")
-* [![mcollina](https://github.com/mcollina.png?size=60)](https://github.com/mcollina " mcollina")
-* [![amiller-gh](https://github.com/amiller-gh.png?size=60)](https://github.com/amiller-gh " amiller-gh")
-* [![ahmadawais](https://github.com/ahmadawais.png?size=60)](https://github.com/ahmadawais " ahmadawais")
-* [![saqibameen](https://github.com/saqibameen.png?size=60)](https://github.com/saqibameen " saqibameen")
-* [![dangen-effy](https://github.com/dangen-effy.png?size=60)](https://github.com/dangen-effy " dangen-effy")
-* [![aymen94](https://github.com/aymen94.png?size=60)](https://github.com/aymen94 " aymen94")
-
-[Edit this page on GitHub](https://github.com/nodejs/nodejs.dev/edit/main/src/documentation/0001-node-introduction/index.md)
-
-* 
-* Next →
-
-* Trademark Policy
-* Privacy Policy
-* [Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/main/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct)
-* Security Reporting
-* About
-* [Blog](https://nodejs.org/en/blog/)
-
-<!-- -->
-
-* © OpenJS Foundation
-* [GitHub](https://github.com/nodejs/node)
-* [](https://twitter.com/nodejs)
-* [](https://slack.openjsf.org)  
