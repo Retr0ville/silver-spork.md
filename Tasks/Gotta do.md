@@ -6,3 +6,4 @@ source:
 note_type: task
 ---
 - [ ] Auth Gadgetlly
+- [ ] Authospace
