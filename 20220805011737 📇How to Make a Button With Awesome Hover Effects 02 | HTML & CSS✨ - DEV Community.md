@@ -1,54 +1,18 @@
 ---
 title: 📇How to Make a Button With Awesome Hover Effects 02 | HTML & CSS✨ - DEV Community
-tags: android blog rtrvl
+tags: dev-to blog rtrvl
 author: retr0ville
 source: https://dev.to/robsonmuniz16/how-to-make-a-button-with-awesome-hover-effects-02-html-css-3m2e
 ---
 📇How to Make a Button With Awesome Hover Effects 02 \| HTML \& CSS✨ - DEV Community  
 Skip to content  
 Navigation menu ![DEV Community](https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png)  
-Search  
-Search Log in Create account  
 
 DEV Community
 -------------
 
-Close  
-
 DEV Community is a community of 886,185 amazing developers
 ----------------------------------------------------------
-
-We're a place where coders share, stay up-to-date and grow their careers.  
-Create account Log in
-
-* Home
-* Listings
-* Podcasts
-* Videos
-* Tags
-* FAQ
-* [Forem Shop](https://shop.forem.com)
-* Sponsors
-* About
-* Contact
-* Guides
-* image/svg+xml Software comparisons
-
-Other
------
-
-* Code of Conduct
-* Privacy Policy
-* Terms of use
-
-[Twitter](https://twitter.com/thepracticaldev) [Facebook](https://facebook.com/thepracticaldev) [Github](https://github.com/forem) [Instagram](https://instagram.com/thepracticaldev) [Twitch](https://twitch.com/thepracticaldev)  
-Like Unicorn Save  
-More...  
-Copy link Copy link  
-Copied to Clipboard  
-[Share to Twitter](https://twitter.com/intent/tweet?text=%22%F0%9F%93%87How%20to%20Make%20a%20Button%20With%20Awesome%20Hover%20Effects%2002%20%7C%20HTML%20%26%20CSS%E2%9C%A8%22%20by%20%40WebDevMadeEasy%20%23DEVCommunity%20https%3A%2F%2Fdev.to%2Frobsonmuniz16%2Fhow-to-make-a-button-with-awesome-hover-effects-02-html-css-3m2e) [Share to LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdev.to%2Frobsonmuniz16%2Fhow-to-make-a-button-with-awesome-hover-effects-02-html-css-3m2e&title=%F0%9F%93%87How%20to%20Make%20a%20Button%20With%20Awesome%20Hover%20Effects%2002%20%7C%20HTML%20%26%20CSS%E2%9C%A8&summary=How%20to%20Make%20a%20Button%20With%20Awesome%20Hover%20Effects%2002%20Using%20HTML%20%26amp%3B%20CSS%2C%20step-by-step%20from...&source=DEV%20Community) [Share to Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fdev.to%2Frobsonmuniz16%2Fhow-to-make-a-button-with-awesome-hover-effects-02-html-css-3m2e&title=%F0%9F%93%87How%20to%20Make%20a%20Button%20With%20Awesome%20Hover%20Effects%2002%20%7C%20HTML%20%26%20CSS%E2%9C%A8) [Share to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fdev.to%2Frobsonmuniz16%2Fhow-to-make-a-button-with-awesome-hover-effects-02-html-css-3m2e&t=%F0%9F%93%87How%20to%20Make%20a%20Button%20With%20Awesome%20Hover%20Effects%2002%20%7C%20HTML%20%26%20CSS%E2%9C%A8) [Share to Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdev.to%2Frobsonmuniz16%2Fhow-to-make-a-button-with-awesome-hover-effects-02-html-css-3m2e)
-Share Post via... Report Abuse  
-![Robson Muniz](https://res.cloudinary.com/practicaldev/image/fetch/s--FFDq8Vr---/c_fill,f_auto,fl_progressive,h_50,q_auto,w_50/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/543933/ff457294-8a9e-4ff7-b92b-ef7a28cf7cf4.jpeg)  
 Robson Muniz
 
 Posted on Aug 4
