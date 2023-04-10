@@ -1,9 +1,9 @@
 ---
 title: Linkin Park
-tags: blog rtrvl
-author: retr0ville
+tags: android 
+author: me rtrvl
 source: 
-note_type: task
+note_type: random 
 ---
 in the end____
 ____A place for my head____
