@@ -37,7 +37,7 @@ but objectively speaking if you got expensive headphones and want full lossless 
 #### Browser:
  everyone's got a decent enough device to run chrome these days I guess.. and if you are not everyone I'd recommend Via: it's literally <300kb but it's got features that makes me question the size sometimes 
 
-#####Video streaming: :) 
+#### Video streaming: :) 
 
 #### Offline music player: Black player,
  one of the best one, and also mostly personal preference. stellio had a neat UI too but I'm not sure they ve fixed their bugs from 3yrs ago when I used it.
@@ -70,4 +70,4 @@ Bonus, :
 + Rest of article is for premium subscribers only 🐤
 
 for sharing: 
-
+https://github.com/Retr0ville/silver-spork.md/blob/master/Linkin%20Park.Set.md
